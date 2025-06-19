@@ -1,1 +1,0 @@
-cambios de rama local llamada developer,despues borrar solo es practica 
