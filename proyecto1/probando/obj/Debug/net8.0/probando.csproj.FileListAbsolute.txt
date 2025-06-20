@@ -1,0 +1,15 @@
+/workspaces/App-BancoAhorros/proyecto1/probando/bin/Debug/net8.0/probando
+/workspaces/App-BancoAhorros/proyecto1/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/App-BancoAhorros/proyecto1/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/App-BancoAhorros/proyecto1/probando/bin/Debug/net8.0/probando.dll
+/workspaces/App-BancoAhorros/proyecto1/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.dll
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/App-BancoAhorros/proyecto1/probando/obj/Debug/net8.0/ref/probando.dll
